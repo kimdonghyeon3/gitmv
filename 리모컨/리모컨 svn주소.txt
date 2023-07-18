@@ -1,0 +1,14 @@
+SW 파트 워크샵 중 리모컨 개발 시 참고 내용 공유 드립니다.
+
+- 코드시트 저장 주소 : http://val.lge.com/ae/svn/RAC_WRemo/04.Code Sheet
+- 개발문서 저장 주소 : http://val.lge.com/ae/svn/RAC_WRemo/05.개발문서/의뢰문서
+- ABOV 마이컴 소스 주소 : http://val.lge.com/ae/svn/PAC_wireless_remote/ (스탠드)
+                                        http://val.lge.com/ae/svn/RAC_wireless_remote/ (벽걸이)
+- EPSON 마이컴 소스 주소 : http://val.lge.com/ae/svn/RAC_WRemo/02.EPSON/PAC (스탠드)
+                                          http://val.lge.com/ae/svn/RAC_WRemo/02.EPSON/RAC (벽걸이)
+- 리얼텍 마이컴 소스 주소 : http://val.lge.com/ae/svn/RAC_WRemo/03.REALTEK
+- EPSON 마이컴 개발 프로그램 및 방법 : 유첨 참고
+
+프로젝트 세팅 방법은 시간나실 때 알려주시면 각자 자리에서 도와드리겠습니다.
+
+※ 전체 리모컨 리스트 자료 및 추가 참고 자료는 작성하는데로 지속적으로 업데이트 드리겠습니다.
